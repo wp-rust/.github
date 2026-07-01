@@ -52,5 +52,3 @@ Please read our Contribution Guidelines and adhere to our Code of Conduct before
 Unless otherwise stated, all code in the wp-rust organization is dual-licensed under the MIT and Apache 2.0 licenses, making it fully compatible with the broader Rust ecosystem.
 
 Disclaimer: wp-rust is an independent open-source project and is not affiliated with, maintained, or endorsed by the WordPress Foundation or Automattic.
-
-Website • Documentation • Discord/Community
